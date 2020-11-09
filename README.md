@@ -1,4 +1,14 @@
-### Hi there 👋
+### Gonzalo's GitHub profile 👋
+  💻Self-taught Full Stack Developer, always attempting to learn more. Super passionate about Web Development in general. Passionate about technology and innovation. Entrepeneur.
+  
+ ### Interests
+ 💻 React.js | React Native | Node.js | Blockchain | Ethereum | Solidity | JAMStack | Freelancer | Remote | Digital Marketing
+ 
+ 
+ 🌎 My Languages 🌎
+ 🇪🇸 Spanish: Native
+ 🇺🇸 English: Upper Intermediate
+ 🇧🇷 Portuguese: Basic
 
 <!--
 **carranzagonzalo/carranzagonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
