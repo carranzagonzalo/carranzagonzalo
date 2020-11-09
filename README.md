@@ -2,7 +2,7 @@
   💻Self-taught Full Stack Developer, always attempting to learn more. Super passionate about Web Development in general. Passionate about technology and innovation. Entrepeneur.
   
  ### Interests
- 💻 React.js | React Native | Node.js | Blockchain | Ethereum | Solidity | JAMStack | Freelancer | Remote | Digital Marketing
+ 💻 React.js | React Native | Node.js | Blockchain | Ethereum | Solidity | JAMStack | Freelancer | Remote | Digital Marketing | Project Management
  
  
  🌎 My Languages 🌎
