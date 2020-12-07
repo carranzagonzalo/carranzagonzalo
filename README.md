@@ -4,7 +4,7 @@
  ### Interests
  💻 React.js | React Native | Node.js | Blockchain | Ethereum | Solidity| JAMStack 
  
- 💻 Freelancer | Remote | Digital Marketing | Project Management
+ 💻 Freelancer | Remote | Digital Manager | Technical Project Manager
  
  
  🌎 My Languages 🌎
